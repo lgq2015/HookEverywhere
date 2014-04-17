@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'HookEveryWhere' target in the 'HookEveryWhere' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

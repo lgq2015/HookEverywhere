@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ios/!svn/ver/37/src/TouchCollectionForX32/TouchSettings
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ios/!svn/ver/36/src/TouchCollectionForX32/TouchSettings/main.m
+END
+AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ios/!svn/ver/36/src/TouchCollectionForX32/TouchSettings/AppDelegate.h
+END
+ViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ios/!svn/ver/37/src/TouchCollectionForX32/TouchSettings/ViewController.h
+END
+AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ios/!svn/ver/36/src/TouchCollectionForX32/TouchSettings/AppDelegate.m
+END
+TouchSettings-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ios/!svn/ver/36/src/TouchCollectionForX32/TouchSettings/TouchSettings-Info.plist
+END
+TouchSettings-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ios/!svn/ver/36/src/TouchCollectionForX32/TouchSettings/TouchSettings-Prefix.pch
+END
+ViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ios/!svn/ver/37/src/TouchCollectionForX32/TouchSettings/ViewController.m
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ios/!svn/ver/41/src/TouchCollectionForX32/HookEveryWhere
+END
+TouchRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ios/!svn/ver/32/src/TouchCollectionForX32/HookEveryWhere/TouchRecord.h
+END
+HookEveryWhere.xm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ios/!svn/ver/42/src/TouchCollectionForX32/HookEveryWhere/HookEveryWhere.xm
+END
+HookEveryWhere-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ios/!svn/ver/32/src/TouchCollectionForX32/HookEveryWhere/HookEveryWhere-Prefix.pch
+END
+PackageVersion.plist
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ios/!svn/ver/32/src/TouchCollectionForX32/HookEveryWhere/PackageVersion.plist
+END
+TouchRecord.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ios/!svn/ver/32/src/TouchCollectionForX32/HookEveryWhere/TouchRecord.m
+END
+HookEveryWhere.mm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ios/!svn/ver/42/src/TouchCollectionForX32/HookEveryWhere/HookEveryWhere.mm
+END

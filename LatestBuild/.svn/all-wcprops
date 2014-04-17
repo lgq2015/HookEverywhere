@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ios/!svn/ver/34/src/TouchCollectionForX32/LatestBuild
+END
+Release-iphonesimulator
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ios/!svn/ver/34/src/TouchCollectionForX32/LatestBuild/Release-iphonesimulator
+END
+Release-iphoneos
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ios/!svn/ver/34/src/TouchCollectionForX32/LatestBuild/Release-iphoneos
+END
+Debug-iphonesimulator
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ios/!svn/ver/32/src/TouchCollectionForX32/LatestBuild/Debug-iphonesimulator
+END
+HookEveryWhere.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ios/!svn/ver/32/src/TouchCollectionForX32/LatestBuild/HookEveryWhere.dylib
+END
+Debug-iphoneos
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ios/!svn/ver/34/src/TouchCollectionForX32/LatestBuild/Debug-iphoneos
+END
